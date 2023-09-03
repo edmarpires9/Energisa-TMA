@@ -1,0 +1,1 @@
+Esses arquivos são para caso você não possuir a IDE do Powerbuilder instalada você ainda sim pode usar e testar o programa, basta copiar os arquivos da runtime 22.0.0.1878 do powerbuilder para a pasta build. Também copiar as pastas "arquivos_ambiente_de_teste" e "data".
