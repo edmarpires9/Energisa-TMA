@@ -1,0 +1,35 @@
+@font-face {
+    font-family: [nome];
+    src: url([Ubuntu]);
+}
+
+* {
+    margin: 0px;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+.div2 {
+    background-size: 350px;
+    background-repeat: no-repeat;
+    min-height: 690px;
+    max-width: 350px;
+    background-color: rgb(25, 31, 57);
+    background-image: url(phone.png);
+}
+
+.mensagem {
+    margin-left: 35px;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    background-color: rgba(32, 44, 51, 0.918);
+    max-width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+}

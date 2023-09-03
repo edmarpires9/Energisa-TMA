@@ -1,0 +1,33 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-image: url(icon/mensagem.png);
+    background-repeat: no-repeat;
+}
+
+textarea {
+    margin-top: 50px;
+    margin-left: 5px;
+    min-width: 240px;
+    min-height: 220px;
+    color: white;
+    font-family: 'Trebuchet MS';
+    font-weight: 500;
+    font-size: 14px;
+    background-color: rgba(32, 44, 51, 0.705);
+    max-width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    max-width: fit-content;
+    justify-content: right;
+}

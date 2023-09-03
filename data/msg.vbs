@@ -1,0 +1,2 @@
+set whatsapp=createobject("wscript.shell")whatsapp.run"taskkill /im chrome.exe"wscript.sleep 2000url = "https://web.whatsapp.com/"whatsapp.run urlwscript.sleep 18000
+whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{tab}"whatsapp.sendkeys "{enter}"whatsapp.sendkeys "^v"wscript.sleep 2500whatsapp.sendkeys "{enter}"wscript.sleep 4000whatsapp.run"taskkill /im chrome.exe"
