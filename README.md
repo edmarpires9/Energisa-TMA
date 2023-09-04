@@ -11,6 +11,7 @@ Ajuda controlar o indicador de "Tempo médio de atendimento". O SGD da Hyndra ex
 <li>Aguarde a mesma ultrapassar 12 horas.</li>
 <li>Ultrapassado 12 horas mensagem será enviada.</li>
 </ul>
+<strong>"Como o programa ficou o programa que desenvolvi 👾.."</strong>
 <img src="https://github.com/edmarpires9/energisa_tma/blob/main/build/270823(1).png?raw=true">
+<strong>"O que o programa entrega aos usuários 👀.."</strong>
 <img src="https://github.com/edmarpires9/energisa_tma/blob/main/build/whatsappimage1.jpeg?raw=true">
-<img src="https://github.com/edmarpires9/energisa_tma/blob/main/build/270823.png?raw=true">
