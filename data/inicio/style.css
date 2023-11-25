@@ -1,8 +1,7 @@
 @font-face {
-    font-family: [nome];
-    src: url([Ubuntu]);
+  font-family: Ubuntu Regular;
+  src: url(Ubuntu-Regular.ttf)
 }
-
 * {
     margin: 0px;
     text-decoration: none;
@@ -25,11 +24,25 @@ a {
     margin-left: 35px;
     margin-top: 10px;
     color: white;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu Regular', sans-serif;
     font-weight: 500;
     font-size: 12px;
     background-color: rgba(32, 44, 51, 0.918);
     max-width: fit-content;
     padding: 10px;
     border-radius: 10px;
+}
+
+.texto {
+    margin-left: 35px;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Ubuntu Regular', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    background-color: rgba(32, 44, 51, 0.918);
+    min-width: 260px;
+    min-height: 300px;
+    padding: 10px;
+    border: none;
 }
