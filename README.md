@@ -14,7 +14,8 @@
   <img src="https://github.com/edmarpires9/Energisa-TMA/blob/main/data/teste/menu.do.app3.png?raw=true">
   <p>"Por último o modo desenvolvedor, que possui um historico das mensagens enviadas, mas não se preocupe esse historico possui um sistema inteligente de limpeza para não acumular dados infinitamente."</p>
   <img src="https://github.com/edmarpires9/Energisa-TMA/blob/main/data/teste/menu.do.app4.png?raw=true">
-  <p>Como o aplicativo foi iniciativa minha. Foi preciso desenvolver ele em casa, em horas vagas, não remuneradas. Ainda sim foi gratificante o aprendizado que tive em seu desenvolvimento e ver o aplicativo sendo utilizado pela empresa</p>
-<img src="">
-<img src="">
+  <p>Como o aplicativo foi iniciativa minha. Foi preciso desenvolver ele em casa, em horas vagas, não remuneradas. Ainda sim foi gratificante o aprendizado que tive em seu desenvolvimento e ver o aplicativo sendo utilizado       pela empresa</p>
+  <img src="https://github.com/edmarpires9/Energisa-TMA/blob/main/data/teste/mensagem.do.app.jpeg?raw=true">
+  <img src="https://github.com/edmarpires9/Energisa-TMA/blob/main/data/teste/mensagem.do.app1.jpeg?raw=true">
+  <p>Caso esteja interessado, entre em contato comigo:</p><a href="https://wa.me/5532988351572" target="_blank">Clicando aqui.</a>
 </div>
