@@ -1,7 +1,7 @@
 <h2 align=center>Energisa - Tempo Médio de Atendimento 🤖💬 </h2>
 <div align=center>
   <p>Olá, meu nome é Edmar Chagas Pires.</p>
-  <p>Buscando uma oportunidade como programador. Atualmente trabalho com Eletricidade. Caso eu já estivesse trabalhando como programador conseguiria entregar um programa com uma qualidade ainda maior.</p>
+  <p>Trabalho 6x dias de eletricista e 3x dias de programador freelancer buscando uma oportunidade como programador CLT.</p>
   <img src="https://raw.githubusercontent.com/edmarpires9/Energisa-TMA/main/data/teste/menu.do.app.png">
   <p>Com a finalidade de solucionar o problema de alguns clientes ficarem muito tempo sem energia. Eu desenvolvi o programa "Energisa-TMA" que monitora quanto tempo cada cliente está sem energia e se detectado um cliente         sem energia há muito tempo é enviado uma mensagem para os responsaveis agilizarem o atendimento deste cliente.</p>
   <p>"Design simples e intuitivo. Após aberto o programa é exibido alerta sugerindo clicar em iniciar."</p>
